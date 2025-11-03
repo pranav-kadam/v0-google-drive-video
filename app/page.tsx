@@ -22,7 +22,7 @@ const videos = [
   {
     id: 3,
     title: "Episode 1",
-    driveId: "1THHAKrylAPiWDZBmi17VzNK9NpyBxBmI",
+    driveId: "1-3R15JEHUnwllKRvydJ6qMHH6Knh7ykD",
     thumbnail: "https://m.media-amazon.com/images/M/MV5BZWQ1NGE4YjgtOGJjZS00OTZjLWI0MGUtMDUxYjY2M2E4MjNjXkEyXkFqcGc@._V1_.jpg",
     duration: "15:20",
   },
